@@ -1,0 +1,452 @@
+<HTML>
+<HEAD>
+<link rel='stylesheet' href=/Users/sghali/Documents/workspace/BlizzardAPI/test-output/styles/style.css>
+</HEAD>
+<div id="header"">
+<h3 style="margin-bottom:0;">Items_Positive_Scenarios_Results</h3></div>
+<div id="space1" style="height:20px"></div>
+</div>
+<TABLE BORDER=1 CELLPADDING=0 CELLSPACING=0 width="100%">
+<TR bgcolor="#B5B6BB">
+<TD>
+TC Name
+</TD>
+<TD>
+Description
+</TD>
+<TD>
+Input
+</TD>
+<TD>
+Request URL
+</TD>
+<TD>
+Status Code
+</TD>
+<TD>
+Response
+</TD>
+<TD>
+Result
+</TD>
+<TD>
+Comments
+</TD>
+<TR>
+<TD>
+Validate_Retrieval_Valid_Item_Details
+</TD>
+<TD>
+Using the world of warcraft Item Web API , retrieve the details of the specified Item ID.
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/18803 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":18803,"disenchantingSkillRank":225,"description":"Property of Finkle Einhorn, Grandmaster Adventurer","name":"Finkle's Lava Dredger","icon":"inv_gizmo_02","stackable":1,"itemBind":1,"bonusStats":[{"stat":51,"amount":11},{"stat":5,"amount":18},{"stat":6,"amount":16},{"stat":7,"amount":19}],"itemSpells":[],"buyPrice":474384,"itemClass":2,"itemSubClass":5,"containerSlots":0,"weaponInfo":{"damage":{"min":81,"max":122,"exactMin":81.0,"exactMax":122.0},"weaponSpeed":2.9,"dps":35.0},"inventoryType":17,"equippable":true,"itemLevel":70,"maxCount":0,"maxDurability":120,"minFactionId":0,"minReputation":0,"quality":4,"sellPrice":94876,"requiredSkill":0,"requiredLevel":60,"requiredSkillRank":0,"itemSource":{"sourceId":179703,"sourceType":"GAME_OBJECT_DROP"},"baseArmor":0,"hasSockets":false,"isAuctionable":false,"armor":0,"displayInfoId":31265,"nameDescription":"","nameDescriptionColor":"000000","upgradable":true,"heroicTooltip":false,"context":"","bonusLists":[],"availableContexts":[""],"bonusSummary":{"defaultBonusLists":[],"chanceBonusLists":[],"bonusChances":[]}}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+</div></TABLE></BODY></HTML>
+<HTML>
+<HEAD>
+<link rel='stylesheet' href=/Users/sghali/Documents/workspace/BlizzardAPI/test-output/styles/style.css>
+</HEAD>
+<div id="header"">
+<h3 style="margin-bottom:0;">Items_Negative_Scenarios_Results</h3></div>
+<div id="space1" style="height:20px"></div>
+</div>
+<TABLE BORDER=1 CELLPADDING=0 CELLSPACING=0 width="100%">
+<TR bgcolor="#B5B6BB">
+<TD>
+TC Name
+</TD>
+<TD>
+Description
+</TD>
+<TD>
+Input
+</TD>
+<TD>
+Request URL
+</TD>
+<TD>
+Status Code
+</TD>
+<TD>
+Response
+</TD>
+<TD>
+Result
+</TD>
+<TD>
+Comments
+</TD>
+<TR>
+<TD>
+Validate_Retrieval_Blank_Item_Details
+</TD>
+<TD>
+Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+404
+</TD>
+<TD>
+{"status":"nok", "reason": "When in doubt, blow it up. (page not found)"}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Retrieval_InValid_Item_Details
+</TD>
+<TD>
+Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/45g52345 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+404
+</TD>
+<TD>
+{"status":"nok", "reason": "When in doubt, blow it up. (page not found)"}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Retrieval_ITEM_Invalid_Resource
+</TD>
+<TD>
+GET ITEM Response with invalid resource name(items)
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/items/18803 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+404
+</TD>
+<TD>
+{"status":"nok", "reason": "When in doubt, blow it up. (page not found)"}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+</div></TABLE></BODY></HTML>
+<HTML>
+<HEAD>
+<link rel='stylesheet' href=/Users/sghali/Documents/workspace/BlizzardAPI/test-output/styles/style.css>
+</HEAD>
+<div id="header"">
+<h3 style="margin-bottom:0;">Item_Set_Positive_Scenarios_Results</h3></div>
+<div id="space1" style="height:20px"></div>
+</div>
+<TABLE BORDER=1 CELLPADDING=0 CELLSPACING=0 width="100%">
+<TR bgcolor="#B5B6BB">
+<TD>
+TC Name
+</TD>
+<TD>
+Description
+</TD>
+<TD>
+Input
+</TD>
+<TD>
+Request URL
+</TD>
+<TD>
+Status Code
+</TD>
+<TD>
+Response
+</TD>
+<TD>
+Result
+</TD>
+<TD>
+Comments
+</TD>
+<TR>
+<TD>
+Validate_Retrieval_Valid_Item_Set_Details
+</TD>
+<TD>
+Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/set/1060 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":1060,"name":"Deep Earth Vestments","setBonuses":[{"description":"Reduces the mana cost of Healing Touch and Rejuvenation by 5%.","threshold":2},{"description":"Your Rejuvenation and Regrowth spells have a 10% chance to Timeslip and have double the normal duration.","threshold":4}],"items":[76749,76750,76751,76752,76753]}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Items_Information_Displayed_Item_Set
+</TD>
+<TD>
+Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/76749 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":76749,"disenchantingSkillRank":475,"description":"","name":"Deep Earth Handwraps","icon":"inv_glove_leather_raiddruid_k_01","stackable":1,"allowableClasses":[11],"itemBind":1,"bonusStats":[{"stat":49,"amount":14},{"stat":5,"amount":20},{"stat":6,"amount":14},{"stat":7,"amount":36}],"itemSpells":[],"buyPrice":0,"itemClass":4,"itemSubClass":2,"containerSlots":0,"inventoryType":10,"equippable":true,"itemLevel":397,"itemSet":{"id":1060,"name":"Deep Earth Vestments","setBonuses":[{"description":"Reduces the mana cost of Healing Touch and Rejuvenation by 5%.","threshold":2},{"description":"Your Rejuvenation and Regrowth spells have a 10% chance to Timeslip and have double the normal duration.","threshold":4}],"items":[76749,76750,76751,76752,76753]},"maxCount":0,"maxDurability":55,"minFactionId":0,"minReputation":0,"quality":4,"sellPrice":129884,"requiredSkill":0,"requiredLevel":85,"requiredSkillRank":0,"socketInfo":{"sockets":[{"type":"BLUE"}],"socketBonus":"+2 Intellect"},"itemSource":{"sourceId":44245,"sourceType":"VENDOR"},"baseArmor":20,"hasSockets":true,"isAuctionable":false,"armor":20,"displayInfoId":103240,"nameDescription":"","nameDescriptionColor":"000000","upgradable":true,"heroicTooltip":false,"context":"","bonusLists":[],"availableContexts":[""],"bonusSummary":{"defaultBonusLists":[],"chanceBonusLists":[],"bonusChances":[]}}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Items_Information_Displayed_Item_Set
+</TD>
+<TD>
+Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/76750 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":76750,"disenchantingSkillRank":475,"description":"","name":"Deep Earth Helm","icon":"inv_helmet_leather_raiddruid_k_01","stackable":1,"allowableClasses":[11],"itemBind":1,"bonusStats":[{"stat":5,"amount":20},{"stat":6,"amount":19},{"stat":36,"amount":12},{"stat":7,"amount":48}],"itemSpells":[],"buyPrice":0,"itemClass":4,"itemSubClass":2,"containerSlots":0,"inventoryType":1,"equippable":true,"itemLevel":397,"itemSet":{"id":1060,"name":"Deep Earth Vestments","setBonuses":[{"description":"Reduces the mana cost of Healing Touch and Rejuvenation by 5%.","threshold":2},{"description":"Your Rejuvenation and Regrowth spells have a 10% chance to Timeslip and have double the normal duration.","threshold":4}],"items":[76749,76750,76751,76752,76753]},"maxCount":0,"maxDurability":100,"minFactionId":0,"minReputation":0,"quality":4,"sellPrice":194084,"requiredSkill":0,"requiredLevel":85,"requiredSkillRank":0,"socketInfo":{"sockets":[{"type":"META"},{"type":"RED"}],"socketBonus":"+6 Intellect"},"itemSource":{"sourceId":44245,"sourceType":"VENDOR"},"baseArmor":27,"hasSockets":true,"isAuctionable":false,"armor":27,"displayInfoId":103238,"nameDescription":"","nameDescriptionColor":"000000","upgradable":true,"heroicTooltip":false,"context":"","bonusLists":[],"availableContexts":[""],"bonusSummary":{"defaultBonusLists":[],"chanceBonusLists":[],"bonusChances":[]}}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Items_Information_Displayed_Item_Set
+</TD>
+<TD>
+Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/76751 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":76751,"disenchantingSkillRank":475,"description":"","name":"Deep Earth Legwraps","icon":"inv_pant_leather_raiddruid_k_01","stackable":1,"allowableClasses":[11],"itemBind":1,"bonusStats":[{"stat":49,"amount":7},{"stat":5,"amount":24},{"stat":6,"amount":19},{"stat":7,"amount":48}],"itemSpells":[],"buyPrice":0,"itemClass":4,"itemSubClass":2,"containerSlots":0,"inventoryType":7,"equippable":true,"itemLevel":397,"itemSet":{"id":1060,"name":"Deep Earth Vestments","setBonuses":[{"description":"Reduces the mana cost of Healing Touch and Rejuvenation by 5%.","threshold":2},{"description":"Your Rejuvenation and Regrowth spells have a 10% chance to Timeslip and have double the normal duration.","threshold":4}],"items":[76749,76750,76751,76752,76753]},"maxCount":0,"maxDurability":120,"minFactionId":0,"minReputation":6,"quality":4,"sellPrice":260227,"requiredSkill":0,"requiredLevel":85,"requiredSkillRank":0,"socketInfo":{"sockets":[{"type":"RED"},{"type":"RED"},{"type":"RED"}],"socketBonus":"+6 Intellect"},"itemSource":{"sourceId":44245,"sourceType":"VENDOR"},"baseArmor":29,"hasSockets":true,"isAuctionable":false,"armor":29,"displayInfoId":103237,"nameDescription":"","nameDescriptionColor":"000000","upgradable":true,"heroicTooltip":false,"context":"","bonusLists":[],"availableContexts":[""],"bonusSummary":{"defaultBonusLists":[],"chanceBonusLists":[],"bonusChances":[]}}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Items_Information_Displayed_Item_Set
+</TD>
+<TD>
+Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/76752 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":76752,"disenchantingSkillRank":475,"description":"","name":"Deep Earth Robes","icon":"inv_chest_leather_raiddruid_k_01","stackable":1,"allowableClasses":[11],"itemBind":1,"bonusStats":[{"stat":5,"amount":20},{"stat":6,"amount":13},{"stat":36,"amount":17},{"stat":7,"amount":48}],"itemSpells":[],"buyPrice":0,"itemClass":4,"itemSubClass":2,"containerSlots":0,"inventoryType":20,"equippable":true,"itemLevel":397,"itemSet":{"id":1060,"name":"Deep Earth Vestments","setBonuses":[{"description":"Reduces the mana cost of Healing Touch and Rejuvenation by 5%.","threshold":2},{"description":"Your Rejuvenation and Regrowth spells have a 10% chance to Timeslip and have double the normal duration.","threshold":4}],"items":[76749,76750,76751,76752,76753]},"maxCount":0,"maxDurability":165,"minFactionId":0,"minReputation":0,"quality":4,"sellPrice":261208,"requiredSkill":0,"requiredLevel":85,"requiredSkillRank":0,"socketInfo":{"sockets":[{"type":"RED"},{"type":"RED"},{"type":"YELLOW"}],"socketBonus":"+6 Intellect"},"itemSource":{"sourceId":44245,"sourceType":"VENDOR"},"baseArmor":33,"hasSockets":true,"isAuctionable":false,"armor":33,"displayInfoId":103236,"nameDescription":"","nameDescriptionColor":"000000","upgradable":true,"heroicTooltip":false,"context":"","bonusLists":[],"availableContexts":[""],"bonusSummary":{"defaultBonusLists":[],"chanceBonusLists":[],"bonusChances":[]}}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Items_Information_Displayed_Item_Set
+</TD>
+<TD>
+Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/76753 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+200
+</TD>
+<TD>
+{"id":76753,"disenchantingSkillRank":475,"description":"","name":"Deep Earth Mantle","icon":"inv_shoulder_leather_raiddruid_k_01","stackable":1,"allowableClasses":[11],"itemBind":1,"bonusStats":[{"stat":49,"amount":13},{"stat":5,"amount":16},{"stat":6,"amount":11},{"stat":7,"amount":36}],"itemSpells":[],"buyPrice":0,"itemClass":4,"itemSubClass":2,"containerSlots":0,"inventoryType":3,"equippable":true,"itemLevel":397,"itemSet":{"id":1060,"name":"Deep Earth Vestments","setBonuses":[{"description":"Reduces the mana cost of Healing Touch and Rejuvenation by 5%.","threshold":2},{"description":"Your Rejuvenation and Regrowth spells have a 10% chance to Timeslip and have double the normal duration.","threshold":4}],"items":[76749,76750,76751,76752,76753]},"maxCount":0,"maxDurability":100,"minFactionId":0,"minReputation":0,"quality":4,"sellPrice":201525,"requiredSkill":0,"requiredLevel":85,"requiredSkillRank":0,"socketInfo":{"sockets":[{"type":"RED"},{"type":"RED"}],"socketBonus":"+4 Intellect"},"itemSource":{"sourceId":44245,"sourceType":"VENDOR"},"baseArmor":24,"hasSockets":true,"isAuctionable":false,"armor":24,"displayInfoId":103235,"nameDescription":"","nameDescriptionColor":"000000","upgradable":true,"heroicTooltip":false,"context":"","bonusLists":[],"availableContexts":[""],"bonusSummary":{"defaultBonusLists":[],"chanceBonusLists":[],"bonusChances":[]}}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+</div></TABLE></BODY></HTML>
+<HTML>
+<HEAD>
+<link rel='stylesheet' href=/Users/sghali/Documents/workspace/BlizzardAPI/test-output/styles/style.css>
+</HEAD>
+<div id="header"">
+<h3 style="margin-bottom:0;">Set_Negative_Scenarios_Results</h3></div>
+<div id="space1" style="height:20px"></div>
+</div>
+<TABLE BORDER=1 CELLPADDING=0 CELLSPACING=0 width="100%">
+<TR bgcolor="#B5B6BB">
+<TD>
+TC Name
+</TD>
+<TD>
+Description
+</TD>
+<TD>
+Input
+</TD>
+<TD>
+Request URL
+</TD>
+<TD>
+Status Code
+</TD>
+<TD>
+Response
+</TD>
+<TD>
+Result
+</TD>
+<TD>
+Comments
+</TD>
+<TR>
+<TD>
+Validate_Retrieval_Blank_Item_Set_Details
+</TD>
+<TD>
+
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/set HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+404
+</TD>
+<TD>
+{"status":"nok", "reason": "When in doubt, blow it up. (page not found)"}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+<TR>
+<TD>
+Validate_Retrieval_Invalid_Item_Set_Details
+</TD>
+<TD>
+
+</TD>
+<TD>
+
+</TD>
+<TD>
+GET http://us.battle.net/api/wow/item/set/45t45243 HTTP/1.1[Content-Type: application/json]
+</TD>
+<TD>
+404
+</TD>
+<TD>
+{"status":"nok", "reason": "When in doubt, blow it up. (page not found)"}
+</TD>
+<TD>
+Pass
+</TD>
+<TD>
+Successful
+</TD>
+</TR>
+</div></TABLE></BODY></HTML>

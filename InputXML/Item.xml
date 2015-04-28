@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ItemsAPI" baseurl="http://us.battle.net"
+	runmode="Y" publicKey="c1fbf21b79c03191d"
+	sigkey="examplesecret">
+	<testset name="Items_Positive_Scenarios" runmode="Y" desc="Validate Get Operation on Item API">
+		<testcase id="1" name="Validate_Retrieval_Valid_Item_Details" desc="Using the world of warcraft Item Web API , retrieve the details of the specified Item ID."
+			endpointurl="/api/wow/item" queryString=" " urlextn="/18803"
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">200</param>
+			<param id="output">
+					{"id":18803,
+					"description":"Property of Finkle Einhorn, Grandmaster Adventurer",
+					"name":"Finkle's Lava Dredger"}
+			</param>
+		</testcase>
+	</testset>
+	<testset name="Items_Negative_Scenarios" runmode="Y" desc="Validate GET Operations on the Item">
+		<testcase id="2" name="Validate_Retrieval_Blank_Item_Details" desc="Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format"
+			endpointurl="/api/wow/item" queryString="" urlextn=""
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">404</param>
+			<param id="output">{"status":"nok","reason": "When in doubt, blow it up. (page not found)"}
+			</param>
+		</testcase>
+		<testcase id="3" name="Validate_Retrieval_InValid_Item_Details" desc="Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format"
+			endpointurl="/api/wow/item" queryString="" urlextn="/45g52345"
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">404</param>
+			<param id="output">{"status":"nok","reason": "When in doubt, blow it up. (page not found)"}
+			</param>
+		</testcase>
+		<testcase id="4" name="Validate_Retrieval_ITEM_Invalid_Resource" desc="GET ITEM Response with invalid resource name(items)"
+			endpointurl="/api/wow/items" queryString="" urlextn="/18803"
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">404</param>
+			<param id="output">{"status":"nok","reason": "When in doubt, blow it up. (page not found)"}
+			</param>
+		</testcase>
+	</testset>
+	<testset name="Item_Set_Positive_Scenarios" runmode="Y" desc="Validate GET Operations on the Item Set">
+		<testcase id="5" name="Validate_Retrieval_Valid_Item_Set_Details" desc="Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID"
+			endpointurl="/api/wow/item/set" queryString=" " urlextn="/1060"
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">200</param>
+			<param id="output">{"id":1060,"name":"Deep Earth Vestments"}
+			</param>
+		</testcase>
+		<testcase id="6" name="Validate_Items_Information_Displayed_Item_Set" desc="Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API."
+			endpointurl="/api/wow/item" queryString=" " urlextn="[5:{items}]"
+			httpmethod="MULTIPLE_GETS">
+			<param id="input"></param>
+			<param id="statuscode">200</param>
+			<param id="output">{"itemSet":"$[5]"}
+			</param>
+		</testcase>
+	</testset>
+	<testset name="Set_Negative_Scenarios" runmode="Y" desc="Performing GET Operations on the Set">
+		<testcase id="7" name="Validate_Retrieval_Blank_Item_Set_Details" desc="Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format"
+			endpointurl="/api/wow/item/set" queryString=" " urlextn=""
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">404</param>
+			<param id="output"></param>
+		</testcase>
+		<testcase id="8" name="Validate_Retrieval_Invalid_Item_Set_Details" desc="Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format"
+			endpointurl="/api/wow/item/set" queryString=" " urlextn="/45t45243"
+			httpmethod="GET">
+			<param id="input"></param>
+			<param id="statuscode">404</param>
+			<param id="output"></param>
+		</testcase>
+	</testset>
+</testsuite>

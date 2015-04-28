@@ -1,0 +1,43 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="testsuite">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="testset" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="testcase" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="param" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:string" name="id" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute type="xs:byte" name="id" use="optional"/>
+                  <xs:attribute type="xs:string" name="name" use="optional"/>
+                  <xs:attribute type="xs:string" name="desc" use="optional"/>
+                  <xs:attribute type="xs:string" name="endpointurl" use="optional"/>
+                  <xs:attribute type="xs:string" name="urlextn" use="optional"/>
+                  <xs:attribute type="xs:string" name="httpmethod" use="optional"/>
+                  <xs:attribute type="xs:string" name="queryString" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="name" use="optional"/>
+            <xs:attribute type="xs:string" name="runmode" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="name"/>
+      <xs:attribute type="xs:anyURI" name="baseurl"/>
+      <xs:attribute type="xs:string" name="runmode"/>
+      <xs:attribute type="xs:string" name="publicKey"/>
+      <xs:attribute type="xs:string" name="sigkey"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

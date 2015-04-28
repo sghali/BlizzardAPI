@@ -1,0 +1,133 @@
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	text-align: center;
+	min-width: 1200px;
+	min-height: 750px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.outerContainer {
+	display: table;
+	width: 100%; /* width of parent */
+	height: 100px;
+	overflow: hidden;
+	border: 1px solid green;
+}
+
+.outerContainer .innerContainer {
+	background: url("phunware.jpg") no-repeat scroll 385 25 transparent;
+	display: table-cell;
+	vertical-align: middle;
+	width: 1000%;
+	margin: 0 auto;
+}
+
+h2 {
+	color: #8B0000;
+	font-size: 30px !important;
+	font-weight: bold;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	color: #778899;
+	font-size: 18px !important;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+table tr:first-child td {
+	font-size: 18px !important;	
+	color: black;
+}
+
+table tr:not   (:first-child   ) td {
+	font-size: 16px !important;
+	font-family :Times New Roman;
+}
+
+#header {
+	height: 50px;
+	text-align: center;
+	color: #808000;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;
+	font-size: 20px;
+	line-height: 50px;
+	text-transform: uppercase;
+}
+
+#headertext {
+	font-family: Segoe UI Light;
+	font-size: 20px;
+	color: black;
+}
+
+table {
+	display: table;
+	border-collapse: separate;
+	border-spacing: 2px;
+	border-color: gray
+}
+
+thead {
+	display: table-header-group;
+	vertical-align: middle;
+	border-color: inherit font-weight :       bold;
+}
+
+tbody {
+	display: table-row-group;
+	vertical-align: middle;
+	border-color: inherit
+}
+
+tfoot {
+	display: table-footer-group;
+	vertical-align: middle;
+	border-color: inherit
+}
+
+table>tr {
+	vertical-align: middle;
+}
+
+col {
+	display: table-column
+}
+
+colgroup {
+	display: table-column-group
+}
+
+tr {
+	display: table-row;
+	vertical-align: inherit;
+	border-color: inherit
+}
+
+td,th {
+	display: table-cell;
+	vertical-align: inherit font-weight :       bold;
+}
+
+th {
+	font-weight: bold font-size :       10pt;
+}
+
+td {
+	padding-left: 0px;
+	font-family: Times New Roman;
+	font-size: 14pt;
+	font-weight: normal;
+	height: 0px;
+	border: 1px solid grey;
+}
+
+
+caption {
+	display: table-caption;
+	text-align: -webkit-center
+}

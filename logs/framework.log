@@ -1,0 +1,1428 @@
+ INFO 2015-04-23 11:39:07,289 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ERROR 2015-04-23 11:39:57,134 [main] (StartPoint.java:84) - java.lang.NullPointerException
+ INFO 2015-04-23 11:40:10,344 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:40:10,530 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:40:10,530 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:40:10,651 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:40:10,653 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:40:10,653 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:40:10,654 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ERROR 2015-04-23 11:40:10,655 [main] (StartPoint.java:84) - java.lang.NullPointerException
+ INFO 2015-04-23 11:40:22,635 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:40:22,850 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:40:22,850 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:40:22,977 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:40:22,978 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:40:22,979 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:40:22,980 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:41:07,194 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-23 11:41:11,241 [main] (TestcaseRun.java:356) - java.lang.NullPointerException
+ INFO 2015-04-23 11:41:11,241 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 11:41:11,244 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-23 11:41:29,110 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:41:29,322 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:41:29,322 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:41:29,452 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:41:29,453 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:41:29,454 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:41:29,455 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:41:30,464 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 11:42:12,370 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:42:12,556 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:42:12,556 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:42:12,670 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:42:12,672 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:42:12,672 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:42:12,673 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:42:12,674 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-23 11:42:16,700 [main] (TestcaseRun.java:356) - java.lang.NullPointerException
+ INFO 2015-04-23 11:42:16,701 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 11:42:16,703 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-23 11:42:29,166 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:42:29,381 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:42:29,381 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:42:29,510 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:42:29,511 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:42:29,511 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:42:29,512 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:42:30,838 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-23 11:43:04,391 [main] (TestcaseRun.java:356) - java.lang.NullPointerException
+ INFO 2015-04-23 11:43:04,393 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 11:43:04,396 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-23 11:43:28,722 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:43:28,924 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:43:28,924 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:43:29,054 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:43:29,055 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:43:29,056 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:43:29,057 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:45:42,880 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:45:45,701 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:45:45,702 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:45:45,841 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:45:45,842 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:45:45,843 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:45:45,844 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:46:26,034 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 11:48:52,530 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 11:48:56,154 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-23 11:53:53,545 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 11:53:53,733 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 11:53:53,734 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 11:53:53,861 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 11:53:53,862 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-23 11:53:53,863 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 11:53:53,863 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 11:53:53,864 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 11:53:58,279 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 11:53:58,280 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-23 11:53:58,281 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-23 11:53:58,281 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 11:54:02,394 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-23 11:54:02,395 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Positive_Scenarios set
+ INFO 2015-04-23 11:54:02,396 [main] (TestEngine.java:85) - Started executing Test Set :Set_Positive_Scenarios
+ INFO 2015-04-23 11:54:02,397 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 11:54:06,512 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-23 11:54:06,513 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-23 11:54:06,514 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-23 11:54:06,514 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 11:54:10,702 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-23 11:54:10,705 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-23 12:03:08,132 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 12:03:08,319 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 12:03:08,319 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 12:03:08,435 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 12:03:08,437 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-23 12:03:08,437 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 12:03:08,438 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 12:03:08,440 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:03:12,842 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 12:03:12,843 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-23 12:03:12,844 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-23 12:03:12,844 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:03:16,949 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-23 12:03:16,950 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Positive_Scenarios set
+ INFO 2015-04-23 12:03:16,951 [main] (TestEngine.java:85) - Started executing Test Set :Set_Positive_Scenarios
+ INFO 2015-04-23 12:03:16,952 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:03:21,060 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-23 12:03:21,062 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-23 12:03:21,063 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-23 12:03:21,063 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:03:25,169 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-23 12:03:25,172 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-23 12:07:41,763 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-23 12:07:41,952 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-23 12:07:41,952 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-23 12:07:42,070 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-23 12:07:42,071 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-23 12:07:42,072 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-23 12:07:42,073 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-23 12:07:42,074 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:07:46,492 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item'
+ INFO 2015-04-23 12:07:46,493 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-23 12:07:46,494 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-23 12:07:46,494 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:07:50,598 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-23 12:07:50,598 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:08:01,993 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-23 12:08:01,994 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:08:06,155 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-23 12:08:06,157 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Positive_Scenarios set
+ INFO 2015-04-23 12:08:06,158 [main] (TestEngine.java:85) - Started executing Test Set :Set_Positive_Scenarios
+ INFO 2015-04-23 12:08:06,159 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:08:10,304 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-23 12:08:10,305 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-23 12:08:10,305 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-23 12:08:10,306 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-23 12:08:14,409 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-23 12:08:14,412 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 17:24:52,363 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 17:24:52,636 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 17:24:52,636 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 17:24:52,809 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 17:24:52,812 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-26 17:24:52,812 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 17:24:52,813 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-26 17:24:52,814 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:24:57,141 [main] (HttpUtils.java:102) - java.net.UnknownHostException: us.battle.net
+ INFO 2015-04-26 17:24:57,142 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item'
+ INFO 2015-04-26 17:24:57,144 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-26 17:24:57,144 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-26 17:24:57,144 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:25:01,164 [main] (HttpUtils.java:102) - java.net.UnknownHostException: us.battle.net
+ INFO 2015-04-26 17:25:01,164 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-26 17:25:01,164 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:25:05,176 [main] (HttpUtils.java:102) - java.net.UnknownHostException: us.battle.net
+ INFO 2015-04-26 17:25:05,177 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-26 17:25:05,177 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:25:09,191 [main] (HttpUtils.java:102) - java.net.UnknownHostException: us.battle.net
+ INFO 2015-04-26 17:25:09,192 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-26 17:25:09,193 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Positive_Scenarios set
+ INFO 2015-04-26 17:25:09,194 [main] (TestEngine.java:85) - Started executing Test Set :Set_Positive_Scenarios
+ INFO 2015-04-26 17:25:09,194 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:25:13,207 [main] (HttpUtils.java:102) - java.net.UnknownHostException: us.battle.net
+ INFO 2015-04-26 17:25:13,208 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 17:25:13,209 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-26 17:25:13,210 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-26 17:25:13,210 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:25:17,223 [main] (HttpUtils.java:102) - java.net.UnknownHostException: us.battle.net
+ INFO 2015-04-26 17:25:17,224 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-26 17:25:17,225 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 17:27:48,486 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 17:27:48,683 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 17:27:48,684 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 17:27:48,814 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 17:27:48,816 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-26 17:27:48,816 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 17:27:48,817 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-26 17:27:48,818 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:27:53,349 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item'
+ INFO 2015-04-26 17:27:53,351 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-26 17:27:53,352 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-26 17:27:53,353 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:27:57,519 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-26 17:27:57,519 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:28:01,663 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-26 17:28:01,664 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:28:05,820 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-26 17:28:05,822 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Positive_Scenarios set
+ INFO 2015-04-26 17:28:05,823 [main] (TestEngine.java:85) - Started executing Test Set :Set_Positive_Scenarios
+ INFO 2015-04-26 17:28:05,823 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:28:10,089 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 17:28:10,090 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-26 17:28:10,091 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-26 17:28:10,091 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:28:14,277 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-26 17:28:14,279 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 17:35:04,103 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 17:35:12,135 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 17:35:26,151 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 17:35:26,286 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 17:35:41,453 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-26 17:35:45,470 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 17:35:46,523 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-26 17:36:14,075 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 17:37:15,034 [main] (TestcaseRun.java:511) - javax.json.stream.JsonParsingException: Unexpected char 10 at (line no=1, column no=14, offset=13)
+ INFO 2015-04-26 17:37:31,883 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Item'
+ INFO 2015-04-26 17:37:31,886 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-26 17:37:31,887 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-26 17:38:32,470 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 17:38:32,676 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 17:38:32,676 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 17:38:32,805 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 17:38:35,044 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-26 17:38:35,045 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 17:38:35,046 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-26 17:38:37,709 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:43:04,617 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item'
+ INFO 2015-04-26 17:47:21,994 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 17:47:22,186 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 17:47:22,187 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 17:47:22,299 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 17:47:22,300 [main] (TestEngine.java:68) - Total 2 sets for execution in [Items API] suite
+ INFO 2015-04-26 17:47:22,301 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 17:47:22,301 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-26 17:47:22,302 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:47:26,798 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-26 17:47:26,799 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-26 17:47:26,800 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-26 17:47:26,800 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:47:30,957 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-26 17:47:30,957 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:47:38,553 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-26 17:47:38,554 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:47:42,710 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-26 17:47:42,714 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 17:53:16,988 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 17:53:17,177 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 17:53:17,177 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 17:53:17,291 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 17:53:17,293 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 17:53:17,293 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 17:53:17,294 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 17:53:17,295 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 17:53:21,793 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 17:53:21,796 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 18:07:41,009 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:07:41,214 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:07:41,214 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:07:41,342 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:07:42,583 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:07:42,583 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:07:42,585 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:07:45,549 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:15:24,004 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:15:24,008 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 18:29:14,723 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:29:14,932 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:29:14,933 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:29:15,060 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:29:16,428 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:29:16,429 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:29:16,430 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:29:21,028 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:29:55,515 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:29:59,648 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:30:40,633 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:30:40,834 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:30:40,835 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:30:40,961 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:30:42,240 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:30:42,240 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:30:42,242 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:30:44,188 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:30:52,873 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:30:55,155 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:33:54,379 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:36:54,235 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:38:25,046 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 18:39:02,877 [main] (JsonUtils.java:183) - java.lang.ClassCastException: org.glassfish.json.JsonObjectBuilderImpl$JsonObjectImpl cannot be cast to javax.json.JsonString
+ INFO 2015-04-26 18:42:52,864 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:42:52,868 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 18:43:20,080 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:43:20,293 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:43:20,294 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:43:20,428 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:43:21,918 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:43:21,918 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:43:21,920 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:43:23,468 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:43:49,221 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:43:50,904 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 18:45:02,928 [main] (JsonUtils.java:183) - java.lang.ClassCastException: org.glassfish.json.JsonObjectBuilderImpl$JsonObjectImpl cannot be cast to javax.json.JsonString
+ INFO 2015-04-26 18:45:38,585 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:45:38,589 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 18:46:00,501 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:46:00,723 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:46:00,724 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:46:00,856 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:46:02,172 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:46:02,173 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:46:02,174 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:46:04,387 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:46:16,356 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:46:18,406 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 18:49:14,263 [main] (JsonUtils.java:183) - java.lang.ClassCastException: org.glassfish.json.JsonObjectBuilderImpl$JsonObjectImpl cannot be cast to javax.json.JsonString
+ INFO 2015-04-26 18:50:52,287 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:50:52,505 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:50:52,506 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:50:52,637 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:50:54,076 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:50:54,076 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:50:54,078 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:50:56,041 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:51:19,528 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:51:20,844 [main] (TestcaseRun.java:343) - Executing GET request - 
+ERROR 2015-04-26 18:51:28,019 [main] (JsonUtils.java:184) - java.lang.ClassCastException: org.glassfish.json.JsonObjectBuilderImpl$JsonObjectImpl cannot be cast to javax.json.JsonString
+ INFO 2015-04-26 18:52:03,462 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:52:03,670 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:52:03,670 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:52:03,805 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:52:06,186 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:52:06,186 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:52:06,187 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:52:07,418 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:52:37,671 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:52:39,121 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:54:37,896 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:54:38,082 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:54:38,082 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:54:38,195 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:54:38,196 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:54:38,196 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:54:38,197 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:54:38,198 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:54:42,721 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:54:42,721 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:54:46,952 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:54:46,954 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 18:56:42,482 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 18:56:42,667 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 18:56:42,668 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 18:56:42,782 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 18:56:42,784 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 18:56:42,784 [main] (TestEngine.java:79) - Total 4 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 18:56:42,785 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 18:56:42,786 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:56:47,369 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:56:47,369 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:56:51,602 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:56:51,602 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:56:55,821 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:56:55,821 [main] (TestcaseRun.java:343) - Executing GET request - 
+ INFO 2015-04-26 18:57:00,020 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 18:57:00,023 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 19:14:29,100 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 19:14:29,312 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 19:14:29,312 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 19:14:29,442 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 19:14:31,172 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 19:14:31,172 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 19:14:31,174 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 19:14:33,104 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 19:14:55,892 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 19:15:02,504 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 19:16:39,966 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 19:16:40,183 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 19:16:40,184 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 19:16:40,315 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 19:16:41,806 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 19:16:41,806 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 19:16:41,808 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 19:16:43,222 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 19:17:11,859 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 19:24:36,865 [main] (TestcaseRun.java:347) - Executing GET request - 
+ERROR 2015-04-26 19:26:15,943 [main] (TestcaseRun.java:360) - java.lang.IllegalArgumentException
+ERROR 2015-04-26 19:26:15,944 [main] (TestcaseRun.java:513) - java.io.IOException: Attempted read from closed stream.
+ INFO 2015-04-26 19:26:15,944 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 19:26:15,947 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 20:04:01,034 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 20:04:01,228 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 20:04:01,228 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 20:04:01,349 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 20:04:01,352 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:04:01,352 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:04:01,353 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:04:01,354 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 20:04:05,854 [main] (TestEngine.java:125) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:04:05,856 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 20:04:44,516 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 20:04:44,731 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 20:04:44,731 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 20:04:44,866 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 20:04:46,722 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:04:46,722 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:04:46,724 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:04:48,588 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 20:07:23,169 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 20:07:23,382 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 20:07:23,382 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 20:07:23,509 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 20:07:24,809 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:07:24,809 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:07:24,811 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:07:27,057 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 20:09:09,419 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:09:09,423 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 20:12:33,715 [main] (StartPoint.java:33) - Configuration log4j is successful
+ INFO 2015-04-26 20:12:33,900 [main] (StartPoint.java:62) -  [1] suite/s for execution
+ INFO 2015-04-26 20:12:33,900 [main] (StartPoint.java:77) - Initialization successful
+ INFO 2015-04-26 20:12:34,012 [main] (StartPoint.java:79) - Starting execution
+ INFO 2015-04-26 20:12:34,014 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:12:34,014 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:12:34,015 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:12:34,016 [main] (TestcaseRun.java:347) - Executing GET request - 
+ INFO 2015-04-26 20:12:38,562 [main] (TestEngine.java:130) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:12:38,564 [main] (StartPoint.java:82) - Execution is completed
+ INFO 2015-04-26 20:54:15,602 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 20:54:15,798 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 20:54:15,798 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 20:54:15,913 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 20:54:15,914 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:54:15,914 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:54:15,915 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:54:15,916 [main] (TestcaseRun.java:299) - Executing GET request - 
+ INFO 2015-04-26 20:54:20,541 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Set'
+ERROR 2015-04-26 20:54:20,542 [main] (TestcaseRun.java:276) - java.lang.NullPointerException
+ INFO 2015-04-26 20:54:20,543 [main] (TestcaseRun.java:299) - Executing GET request - 
+ INFO 2015-04-26 20:54:24,734 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:54:24,737 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 20:54:39,246 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 20:54:39,430 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 20:54:39,430 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 20:54:39,541 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 20:54:39,542 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:54:39,542 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:54:39,543 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:54:39,544 [main] (TestcaseRun.java:299) - Executing GET request - 
+ INFO 2015-04-26 20:54:44,015 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:54:44,018 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 20:54:56,530 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 20:54:56,740 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 20:54:56,740 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 20:54:56,871 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 20:55:00,562 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:55:00,563 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:55:00,567 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:55:04,232 [main] (TestcaseRun.java:299) - Executing GET request - 
+ INFO 2015-04-26 20:56:34,644 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:56:40,267 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 20:56:55,184 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 20:56:55,369 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 20:56:55,369 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 20:56:55,481 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 20:56:55,482 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 20:56:55,482 [main] (TestEngine.java:79) - Total 1 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 20:56:55,484 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 20:56:55,484 [main] (TestcaseRun.java:299) - Executing GET request - 
+ INFO 2015-04-26 20:57:00,014 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 20:57:00,017 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 21:34:16,746 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 21:34:16,945 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 21:34:16,945 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 21:34:17,074 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 21:34:17,076 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 21:34:17,076 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 21:34:17,077 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 21:34:17,078 [main] (TestcaseRun.java:298) - Executing GET request - 
+ INFO 2015-04-26 21:34:21,674 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 21:34:44,332 [main] (TestcaseRun.java:347) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:35:30,586 [main] (TestcaseRun.java:347) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:35:43,745 [main] (TestcaseRun.java:347) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:45:57,845 [main] (TestcaseRun.java:357) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:45:58,837 [main] (TestEngine.java:117) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-26 21:45:58,841 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 21:49:33,990 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 21:49:34,180 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 21:49:34,180 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 21:49:34,295 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 21:49:34,297 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 21:49:34,297 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 21:49:34,298 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 21:49:34,299 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:49:38,844 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 21:49:38,861 [main] (TestcaseRun.java:357) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:49:38,861 [main] (TestcaseRun.java:366) - Performing GET Operation on urlExtns[j]+ on tcEndPointURL
+ INFO 2015-04-26 21:49:39,054 [main] (TestcaseRun.java:366) - Performing GET Operation on urlExtns[j]+ on tcEndPointURL
+ INFO 2015-04-26 21:49:39,225 [main] (TestcaseRun.java:366) - Performing GET Operation on urlExtns[j]+ on tcEndPointURL
+ INFO 2015-04-26 21:49:39,407 [main] (TestcaseRun.java:366) - Performing GET Operation on urlExtns[j]+ on tcEndPointURL
+ INFO 2015-04-26 21:49:39,580 [main] (TestcaseRun.java:366) - Performing GET Operation on urlExtns[j]+ on tcEndPointURL
+ INFO 2015-04-26 21:49:39,767 [main] (TestEngine.java:117) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-26 21:49:39,770 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 21:50:28,894 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 21:50:29,075 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 21:50:29,075 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 21:50:29,191 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 21:50:29,193 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 21:50:29,193 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 21:50:29,195 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 21:50:29,196 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:50:33,661 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 21:50:33,680 [main] (TestcaseRun.java:357) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:50:33,680 [main] (TestcaseRun.java:366) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-26 21:50:33,893 [main] (TestcaseRun.java:366) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-26 21:50:34,073 [main] (TestcaseRun.java:366) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-26 21:50:34,254 [main] (TestcaseRun.java:366) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-26 21:50:34,452 [main] (TestcaseRun.java:366) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-26 21:50:34,651 [main] (TestEngine.java:117) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-26 21:50:34,655 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 21:51:38,854 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 21:51:39,045 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 21:51:39,046 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 21:51:39,169 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 21:51:39,171 [main] (TestEngine.java:68) - Total 1 sets for execution in [Items API] suite
+ INFO 2015-04-26 21:51:39,171 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 21:51:39,172 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 21:51:39,172 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:51:43,684 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 21:51:43,701 [main] (TestcaseRun.java:357) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:51:43,701 [main] (TestcaseRun.java:366) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-26 21:51:43,920 [main] (TestcaseRun.java:366) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-26 21:51:44,112 [main] (TestcaseRun.java:366) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-26 21:51:44,279 [main] (TestcaseRun.java:366) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-26 21:51:44,447 [main] (TestcaseRun.java:366) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-26 21:51:44,625 [main] (TestEngine.java:117) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-26 21:51:44,628 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 21:52:32,445 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 21:52:32,631 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 21:52:32,632 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 21:52:32,749 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 21:52:32,751 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-26 21:52:32,751 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 21:52:32,752 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-26 21:52:32,753 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:52:34,239 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-26 21:52:34,241 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-26 21:52:34,242 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-26 21:52:34,242 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:52:34,445 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-26 21:52:34,445 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:52:34,645 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-26 21:52:34,646 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:52:34,821 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-26 21:52:34,823 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-26 21:52:34,824 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-26 21:52:34,825 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:52:35,003 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-26 21:52:35,019 [main] (TestcaseRun.java:355) - Executing Multiple GET requests - 
+ INFO 2015-04-26 21:52:35,019 [main] (TestcaseRun.java:364) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-26 21:52:35,236 [main] (TestcaseRun.java:364) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-26 21:52:35,410 [main] (TestcaseRun.java:364) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-26 21:52:35,592 [main] (TestcaseRun.java:364) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-26 21:52:35,769 [main] (TestcaseRun.java:364) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-26 21:52:35,973 [main] (TestEngine.java:117) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-26 21:52:35,975 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-26 21:52:35,976 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-26 21:52:35,976 [main] (TestcaseRun.java:308) - Executing GET request - 
+ INFO 2015-04-26 21:52:36,160 [main] (TestEngine.java:117) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-26 21:52:36,162 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-26 23:58:58,962 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-26 23:58:59,215 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-26 23:58:59,216 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-26 23:58:59,392 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-26 23:58:59,393 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-26 23:58:59,393 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-26 23:58:59,394 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ERROR 2015-04-26 23:58:59,409 [main] (StartPoint.java:87) - javax.json.stream.JsonParsingException: Unexpected char 47 at (line no=1, column no=1, offset=0)
+ INFO 2015-04-26 23:59:59,974 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:00:00,217 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:00:00,218 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:00:00,348 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:00:00,350 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:00:00,350 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:00:00,351 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ERROR 2015-04-27 00:00:00,364 [main] (StartPoint.java:87) - javax.json.stream.JsonParsingException: Unexpected char 47 at (line no=1, column no=1, offset=0)
+ INFO 2015-04-27 00:00:21,089 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:00:21,283 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:00:21,283 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:00:21,415 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:00:21,416 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:00:21,416 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:00:21,417 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:01:14,620 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:01:20,450 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:01:23,116 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:01:25,373 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:01:26,408 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:01:26,409 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:01:26,413 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:01:48,879 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:01:49,080 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:01:49,080 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:01:49,214 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:02:29,560 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:02:33,493 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:02:35,187 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:03:19,517 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:03:25,149 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:03:27,998 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:03:29,824 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:03:44,151 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:03:47,367 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:03:48,904 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ERROR 2015-04-27 00:05:59,181 [main] (StartPoint.java:87) - javax.json.stream.JsonParsingException: Unexpected char 47 at (line no=1, column no=1, offset=0)
+ INFO 2015-04-27 00:06:20,648 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:06:20,859 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:06:20,859 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:06:20,993 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:06:24,104 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:06:24,105 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:06:24,106 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:08:35,652 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:08:35,844 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:08:35,844 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:08:35,960 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:08:35,961 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:08:35,961 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:08:35,962 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:08:35,963 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:08:35,997 [main] (TestcaseRun.java:319) - java.lang.IllegalArgumentException: Missing argument
+ INFO 2015-04-27 00:08:35,997 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:08:35,998 [main] (TestEngine.java:79) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:08:35,999 [main] (TestEngine.java:85) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:08:35,999 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:08:36,000 [main] (TestcaseRun.java:319) - java.lang.IllegalArgumentException: Missing argument
+ INFO 2015-04-27 00:08:36,000 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:08:36,000 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:08:36,001 [main] (TestcaseRun.java:319) - java.lang.IllegalArgumentException: Missing argument
+ INFO 2015-04-27 00:08:36,001 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:08:36,001 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:08:36,002 [main] (TestcaseRun.java:319) - java.lang.IllegalArgumentException: Missing argument
+ INFO 2015-04-27 00:08:36,002 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:08:36,003 [main] (TestEngine.java:79) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:08:36,003 [main] (TestEngine.java:85) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:08:36,004 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:08:36,004 [main] (TestcaseRun.java:319) - java.lang.IllegalArgumentException: Missing argument
+ INFO 2015-04-27 00:08:36,004 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Set'
+ERROR 2015-04-27 00:08:36,005 [main] (TestcaseRun.java:284) - java.lang.NullPointerException
+ INFO 2015-04-27 00:08:36,005 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ERROR 2015-04-27 00:08:36,006 [main] (TestcaseRun.java:383) - java.lang.NullPointerException
+ INFO 2015-04-27 00:08:36,006 [main] (TestEngine.java:120) - Failed to  perform 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:08:36,007 [main] (TestEngine.java:79) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:08:36,007 [main] (TestEngine.java:85) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:08:36,008 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:08:36,008 [main] (TestcaseRun.java:319) - java.lang.IllegalArgumentException: Missing argument
+ INFO 2015-04-27 00:08:36,008 [main] (TestEngine.java:120) - Failed to  perform 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:08:36,010 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-27 00:08:54,932 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:08:55,154 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:08:55,154 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:08:55,284 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:08:57,456 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:08:57,456 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:08:57,458 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:09:08,394 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:10:33,762 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:10:33,980 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:10:33,980 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:10:34,109 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:10:35,435 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:10:35,435 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:10:35,437 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:10:37,466 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:11:40,039 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:11:40,269 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:11:40,270 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:11:40,393 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:11:41,526 [main] (TestEngine.java:68) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:11:41,527 [main] (TestEngine.java:79) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:11:41,528 [main] (TestEngine.java:85) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:11:43,040 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:01,099 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:22:01,277 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:22:01,278 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:22:01,389 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:22:01,391 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:22:01,391 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:22:01,392 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:22:01,393 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:07,675 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:22:07,676 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:22:07,677 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:22:07,677 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:07,866 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:22:07,866 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:08,019 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:22:08,019 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:08,267 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:22:08,269 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:22:08,269 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:22:08,270 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:08,419 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Set'
+ERROR 2015-04-27 00:22:08,420 [main] (TestcaseRun.java:284) - java.lang.NullPointerException
+ INFO 2015-04-27 00:22:08,420 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ERROR 2015-04-27 00:22:08,421 [main] (TestcaseRun.java:383) - java.lang.NullPointerException
+ INFO 2015-04-27 00:22:08,421 [main] (TestEngine.java:122) - Failed to  perform 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:22:08,422 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:22:08,423 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:22:08,423 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:22:08,591 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:22:08,592 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-27 00:22:40,365 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:22:40,571 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:22:40,572 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:22:41,920 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:22:41,922 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:22:41,923 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:22:41,924 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:22:41,926 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:24:35,862 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:24:43,535 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:24:43,535 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:24:44,819 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:24:44,821 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:24:44,822 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:24:44,824 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:24:44,825 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:07,705 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:25:07,707 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:25:07,708 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:25:07,708 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:29,547 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:25:29,745 [main] (StartPoint.java:65) -  [1] suite/s for execution
+ INFO 2015-04-27 00:25:29,745 [main] (StartPoint.java:80) - Initialization successful
+ INFO 2015-04-27 00:25:29,864 [main] (StartPoint.java:82) - Starting execution
+ INFO 2015-04-27 00:25:29,865 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:25:29,866 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:25:29,867 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:25:29,868 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:30,401 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:25:30,402 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:25:30,403 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:25:30,403 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:30,551 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:25:30,551 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:30,683 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:25:30,683 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:30,826 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:25:30,828 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:25:30,829 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:25:30,829 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:30,985 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:25:31,006 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:25:31,007 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:25:31,148 [main] (TestcaseRun.java:363) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-27 00:25:31,301 [main] (TestcaseRun.java:363) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-27 00:25:31,464 [main] (TestcaseRun.java:363) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-27 00:25:31,610 [main] (TestcaseRun.java:363) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-27 00:25:31,758 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:25:31,759 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:25:31,760 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:25:31,760 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:25:31,925 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:25:31,926 [main] (StartPoint.java:85) - Execution is completed
+ INFO 2015-04-27 00:33:17,915 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:33:18,097 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:33:18,097 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:33:18,222 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:33:18,223 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:33:18,224 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:33:18,225 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:33:18,225 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:33:18,245 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,245 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:33:18,247 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:33:18,248 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:33:18,248 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:33:18,248 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,248 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:33:18,248 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:33:18,249 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,249 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:33:18,249 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:33:18,250 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,250 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:33:18,251 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:33:18,251 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:33:18,252 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:33:18,252 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,252 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Set'
+ERROR 2015-04-27 00:33:18,253 [main] (TestcaseRun.java:284) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,253 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ERROR 2015-04-27 00:33:18,254 [main] (TestcaseRun.java:383) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,254 [main] (TestEngine.java:122) - Failed to  perform 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:33:18,255 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:33:18,255 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:33:18,256 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:33:18,256 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:33:18,256 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:33:18,258 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:36:18,284 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:36:18,475 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:36:18,475 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:36:18,597 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:36:18,598 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:36:18,599 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:36:18,600 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:36:18,601 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:36:18,619 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,619 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:36:18,621 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:36:18,621 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:36:18,622 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:36:18,622 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,622 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:36:18,622 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:36:18,623 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,623 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:36:18,623 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:36:18,623 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,624 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:36:18,625 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:36:18,625 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:36:18,625 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:36:18,626 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,626 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Set'
+ERROR 2015-04-27 00:36:18,627 [main] (TestcaseRun.java:284) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,627 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ERROR 2015-04-27 00:36:18,627 [main] (TestcaseRun.java:383) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,627 [main] (TestEngine.java:122) - Failed to  perform 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:36:18,628 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:36:18,629 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:36:18,629 [main] (TestcaseRun.java:307) - Executing GET request - 
+ERROR 2015-04-27 00:36:18,629 [main] (TestcaseRun.java:319) - java.lang.NullPointerException
+ INFO 2015-04-27 00:36:18,630 [main] (TestEngine.java:122) - Failed to  perform 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:36:18,631 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:36:37,646 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:36:43,498 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:36:45,390 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:36:46,658 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:36:47,477 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:36:47,480 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:36:47,483 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:36:47,486 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:10,371 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:37:10,589 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:37:10,589 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:37:10,719 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:37:12,263 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:37:12,264 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:37:12,265 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:37:12,267 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:57,177 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:37:57,361 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:37:57,361 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:37:57,475 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:37:57,476 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:37:57,477 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:37:57,477 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:37:57,478 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:58,087 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:37:58,088 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:37:58,089 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:37:58,089 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:58,239 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:37:58,239 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:58,391 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:37:58,392 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:58,552 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:37:58,553 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:37:58,554 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:37:58,554 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:58,700 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:37:58,719 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:37:58,719 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:37:58,864 [main] (TestcaseRun.java:363) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-27 00:37:59,026 [main] (TestcaseRun.java:363) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-27 00:37:59,158 [main] (TestcaseRun.java:363) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-27 00:37:59,308 [main] (TestcaseRun.java:363) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-27 00:37:59,454 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:37:59,455 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:37:59,455 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:37:59,455 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:37:59,606 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:37:59,608 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:40:22,652 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:40:22,835 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:40:22,835 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:40:22,946 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:40:22,948 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:40:22,948 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:40:22,949 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:40:22,950 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:40:23,548 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:40:23,549 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:40:23,549 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:40:23,550 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:40:23,692 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:40:23,692 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:40:23,841 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:40:23,841 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:40:23,987 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:40:23,988 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:40:23,988 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:40:23,988 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:40:24,159 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:40:24,181 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:40:24,181 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:40:24,454 [main] (TestcaseRun.java:363) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-27 00:40:24,613 [main] (TestcaseRun.java:363) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-27 00:40:24,764 [main] (TestcaseRun.java:363) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-27 00:40:24,906 [main] (TestcaseRun.java:363) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-27 00:40:25,047 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:40:25,049 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:40:25,051 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:40:25,051 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:40:25,222 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:40:25,224 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:41:50,038 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:41:50,245 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:41:50,245 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:41:50,368 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:41:50,370 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:41:50,371 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:41:50,372 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:41:50,373 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:41:50,935 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:41:50,936 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:41:50,937 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:41:50,937 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:41:51,095 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:41:51,095 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:41:51,259 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:41:51,259 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:41:51,411 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:41:51,412 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:41:51,413 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:41:51,413 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:41:51,583 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:42:06,646 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:44:27,575 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:44:27,767 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:44:27,767 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:44:27,882 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:44:27,884 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:44:27,884 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:44:27,885 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:44:27,886 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:44:28,488 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:44:28,489 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:44:28,490 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:44:28,490 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:44:28,633 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:44:28,633 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:44:28,790 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:44:28,790 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:44:28,947 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:44:28,948 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:44:28,948 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:44:28,949 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:44:29,170 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:44:29,188 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:44:29,188 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:44:29,333 [main] (TestcaseRun.java:363) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-27 00:44:29,487 [main] (TestcaseRun.java:363) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-27 00:44:29,635 [main] (TestcaseRun.java:363) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-27 00:44:29,788 [main] (TestcaseRun.java:363) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-27 00:44:29,936 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:44:29,937 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:44:29,937 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:44:29,938 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:44:30,102 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:44:30,103 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:47:31,428 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:47:31,616 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:47:31,616 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:47:31,731 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:47:31,732 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:47:31,733 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:47:31,734 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:47:31,735 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:47:32,323 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:47:32,324 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:47:32,325 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:47:32,325 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:47:32,467 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:47:32,467 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:47:32,616 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:47:32,616 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:47:32,766 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:47:32,768 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:47:32,769 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:47:32,769 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:47:32,937 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:47:32,954 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:47:32,954 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:47:33,101 [main] (TestcaseRun.java:363) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-27 00:47:33,259 [main] (TestcaseRun.java:363) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-27 00:47:33,459 [main] (TestcaseRun.java:363) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-27 00:47:33,623 [main] (TestcaseRun.java:363) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-27 00:47:33,772 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:47:33,773 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:47:33,774 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:47:33,774 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:47:33,941 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:47:33,942 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:48:35,793 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:48:35,990 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:48:35,990 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:48:36,113 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:48:36,115 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:48:36,116 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:48:36,117 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:48:36,118 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:48:36,667 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:48:36,669 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:48:36,669 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:48:36,669 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:48:36,835 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:48:36,836 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:48:37,050 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:48:37,050 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:48:37,202 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:48:37,203 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:48:37,204 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:48:37,204 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:48:37,371 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:48:37,389 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:48:50,671 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:53:43,395 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:53:43,594 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:53:43,594 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:53:43,706 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:53:43,707 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:53:43,708 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:53:43,709 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:53:43,710 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:53:44,332 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:53:44,334 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:53:44,334 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:53:44,334 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:53:44,483 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:53:44,483 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:53:44,656 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:53:44,657 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:53:44,826 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:53:44,827 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:53:44,828 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:53:44,828 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:53:44,998 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:53:45,017 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:53:45,017 [main] (TestcaseRun.java:363) - Performing GET Operation on 76749on tcEndPointURL
+ INFO 2015-04-27 00:53:45,158 [main] (TestcaseRun.java:363) - Performing GET Operation on 76750on tcEndPointURL
+ INFO 2015-04-27 00:53:45,308 [main] (TestcaseRun.java:363) - Performing GET Operation on 76751on tcEndPointURL
+ INFO 2015-04-27 00:53:45,471 [main] (TestcaseRun.java:363) - Performing GET Operation on 76752on tcEndPointURL
+ INFO 2015-04-27 00:53:45,610 [main] (TestcaseRun.java:363) - Performing GET Operation on 76753on tcEndPointURL
+ INFO 2015-04-27 00:53:45,766 [main] (TestEngine.java:122) - Failed to  perform 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:53:45,767 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:53:45,768 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:53:45,768 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:53:45,935 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:53:45,937 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:56:08,556 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:56:08,758 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:56:08,758 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:56:08,883 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:56:08,885 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:56:08,885 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:56:08,886 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:56:08,887 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:56:09,519 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:56:09,520 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:56:09,521 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:56:09,521 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:56:09,678 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:56:09,678 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:56:09,838 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:56:09,838 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:56:10,004 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:56:10,005 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:56:10,006 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:56:10,006 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:56:10,140 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:56:10,160 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:56:13,765 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 00:56:13,969 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 00:56:14,126 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 00:56:14,291 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 00:56:14,438 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 00:56:14,613 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:56:14,623 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:56:14,625 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:56:14,626 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:56:14,784 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 00:56:14,785 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 00:59:14,542 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 00:59:14,738 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 00:59:14,738 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 00:59:14,858 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 00:59:14,864 [main] (TestEngine.java:70) - Total 4 sets for execution in [Items API] suite
+ INFO 2015-04-27 00:59:14,864 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 00:59:14,865 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 00:59:14,866 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:59:15,476 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 00:59:15,477 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 00:59:15,478 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 00:59:15,478 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:59:15,618 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 00:59:15,618 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:59:15,759 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 00:59:15,759 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:59:15,910 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 00:59:15,912 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 00:59:15,913 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 00:59:15,913 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:59:16,064 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 00:59:16,082 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 00:59:16,082 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 00:59:16,250 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 00:59:16,398 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 00:59:16,554 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 00:59:16,725 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 00:59:16,901 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 00:59:16,902 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 00:59:16,902 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 00:59:16,903 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 00:59:17,067 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 01:00:14,927 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 01:01:11,599 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 01:01:11,798 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 01:01:11,798 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 01:01:11,908 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 01:01:11,909 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 01:01:11,910 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 01:01:11,911 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 01:01:11,912 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:01:12,448 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 01:01:12,450 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 01:01:12,450 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 01:01:12,450 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:01:12,587 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 01:01:12,587 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:01:12,787 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 01:01:12,787 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:01:12,941 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 01:01:12,942 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 01:01:12,943 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 01:01:12,943 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:01:13,105 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 01:01:13,122 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 01:01:13,122 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 01:01:13,298 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 01:01:13,457 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 01:01:13,625 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 01:01:13,899 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 01:01:14,068 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 01:01:14,069 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 01:01:14,069 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 01:01:14,070 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:01:14,230 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 01:01:14,232 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 01:02:58,321 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 01:02:58,510 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 01:02:58,510 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 01:02:58,626 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 01:02:58,628 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 01:02:58,628 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 01:02:58,630 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 01:02:58,630 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:02:59,227 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 01:02:59,228 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 01:02:59,229 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 01:02:59,229 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:02:59,384 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 01:02:59,384 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:02:59,543 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 01:02:59,544 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:02:59,682 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 01:02:59,683 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 01:02:59,684 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 01:02:59,684 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:03:02,097 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 01:03:02,116 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 01:03:02,116 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 01:03:02,281 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 01:03:02,430 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 01:03:02,588 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 01:03:02,727 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 01:03:03,226 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 01:03:03,227 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 01:03:03,227 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 01:03:03,228 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:03:03,412 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 01:03:03,413 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 01:04:35,275 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 01:04:35,472 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 01:04:35,473 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 01:04:35,586 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 01:04:35,587 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 01:04:35,588 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 01:04:35,589 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 01:04:35,590 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:04:36,111 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 01:04:36,111 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 01:04:36,111 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 01:04:36,112 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:04:36,259 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank item ID'
+ INFO 2015-04-27 01:04:36,259 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:04:36,416 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with blank Invalid item ID'
+ INFO 2015-04-27 01:04:36,416 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:04:36,567 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Item with invalid end url'
+ INFO 2015-04-27 01:04:36,567 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 01:04:36,568 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 01:04:36,568 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:04:36,718 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set'
+ INFO 2015-04-27 01:04:36,736 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 01:04:36,736 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 01:04:36,902 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 01:04:37,051 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 01:04:37,230 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 01:04:37,381 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 01:04:37,523 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Get the Set'
+ INFO 2015-04-27 01:04:37,523 [main] (TestEngine.java:81) - Total 1 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 01:04:37,524 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 01:04:37,524 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 01:04:37,713 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Get the Set with blank Set ID'
+ INFO 2015-04-27 01:04:37,721 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 08:14:34,508 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 08:14:34,788 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 08:14:34,788 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 08:14:34,957 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 08:14:48,824 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 08:14:50,592 [main] (TestEngine.java:81) - Total 2 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 08:14:50,978 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 08:14:57,312 [main] (TestcaseRun.java:292) - Executing POST request - 
+ INFO 2015-04-27 08:15:24,454 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 08:15:24,653 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 08:15:24,654 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 08:15:24,779 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 08:15:30,685 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 08:15:30,686 [main] (TestEngine.java:81) - Total 2 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 08:15:30,687 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 08:15:45,698 [main] (TestcaseRun.java:292) - Executing POST request - 
+ INFO 2015-04-27 08:16:43,838 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 08:16:44,041 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 08:16:44,041 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 08:16:44,169 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 08:16:50,562 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 08:16:50,563 [main] (TestEngine.java:81) - Total 2 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 08:16:50,564 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 08:17:04,199 [main] (TestcaseRun.java:292) - Executing POST request - 
+ INFO 2015-04-27 08:17:57,232 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 08:17:57,437 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 08:17:57,437 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 08:17:57,572 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 08:17:59,619 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 08:17:59,620 [main] (TestEngine.java:81) - Total 2 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 08:17:59,622 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 08:18:08,464 [main] (TestcaseRun.java:292) - Executing POST request - 
+ INFO 2015-04-27 08:18:34,967 [main] (TestEngine.java:122) - Failed to  perform 'POST'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 08:18:41,318 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 08:18:41,484 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Test Case covers validation of response code and expected output content'
+ INFO 2015-04-27 08:18:41,485 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 08:18:41,485 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 16:29:32,999 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 16:29:33,257 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 16:29:33,257 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 16:29:33,422 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 16:29:33,424 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 16:29:33,425 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 16:29:33,426 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 16:29:33,427 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:34,080 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , retrieve the details of the specified Item ID.'
+ INFO 2015-04-27 16:29:34,080 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 16:29:34,081 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 16:29:34,081 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:36,047 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:29:36,047 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:36,158 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:29:36,158 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:36,548 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'GET ITEM Response with invalid resource name(items)'
+ INFO 2015-04-27 16:29:36,549 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 16:29:36,550 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 16:29:36,550 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:36,941 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID'
+ INFO 2015-04-27 16:29:36,969 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 16:29:36,969 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 16:29:37,122 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 16:29:37,265 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 16:29:37,397 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 16:29:37,531 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 16:29:37,660 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.'
+ INFO 2015-04-27 16:29:37,661 [main] (TestEngine.java:81) - Total 2 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 16:29:37,661 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 16:29:37,661 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:37,785 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:29:37,785 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:29:37,911 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:29:37,913 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 16:36:55,579 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 16:36:55,818 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 16:36:55,818 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 16:36:55,974 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 16:36:55,976 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 16:36:55,976 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 16:36:55,977 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 16:36:55,978 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:56,568 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , retrieve the details of the specified Item ID.'
+ INFO 2015-04-27 16:36:56,568 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 16:36:56,569 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 16:36:56,569 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:56,694 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:36:56,695 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:56,817 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:36:56,818 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:56,936 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'GET ITEM Response with invalid resource name(items)'
+ INFO 2015-04-27 16:36:56,936 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 16:36:56,937 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 16:36:56,938 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:57,068 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID'
+ INFO 2015-04-27 16:36:57,088 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 16:36:57,088 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 16:36:57,240 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 16:36:58,140 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 16:36:58,268 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 16:36:58,403 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 16:36:58,539 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.'
+ INFO 2015-04-27 16:36:58,539 [main] (TestEngine.java:81) - Total 2 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 16:36:58,540 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 16:36:58,540 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:58,669 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:36:58,669 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:36:58,793 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:36:58,794 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 16:37:53,720 [main] (StartPoint.java:36) - Configuration log4j is successful
+ INFO 2015-04-27 16:37:53,909 [main] (StartPoint.java:64) -  [1] suite/s for execution
+ INFO 2015-04-27 16:37:53,910 [main] (StartPoint.java:79) - Initialization successful
+ INFO 2015-04-27 16:37:54,023 [main] (StartPoint.java:81) - Starting execution
+ INFO 2015-04-27 16:37:54,025 [main] (TestEngine.java:70) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 16:37:54,025 [main] (TestEngine.java:81) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 16:37:54,026 [main] (TestEngine.java:87) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 16:37:54,027 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:54,551 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , retrieve the details of the specified Item ID.'
+ INFO 2015-04-27 16:37:54,551 [main] (TestEngine.java:81) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 16:37:54,552 [main] (TestEngine.java:87) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 16:37:54,552 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:54,684 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:37:54,685 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:54,813 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:37:54,813 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:54,939 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'GET ITEM Response with invalid resource name(items)'
+ INFO 2015-04-27 16:37:54,940 [main] (TestEngine.java:81) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 16:37:54,940 [main] (TestEngine.java:87) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 16:37:54,941 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:55,072 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID'
+ INFO 2015-04-27 16:37:55,090 [main] (TestcaseRun.java:354) - Executing Multiple GET requests - 
+ INFO 2015-04-27 16:37:55,090 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 16:37:55,254 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 16:37:55,385 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 16:37:55,514 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 16:37:55,642 [main] (TestcaseRun.java:363) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 16:37:55,768 [main] (TestEngine.java:119) - Successfully performed 'MULTIPLE_GETS'operation on 'Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.'
+ INFO 2015-04-27 16:37:55,768 [main] (TestEngine.java:81) - Total 2 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 16:37:55,769 [main] (TestEngine.java:87) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 16:37:55,769 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:55,906 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:37:55,906 [main] (TestcaseRun.java:307) - Executing GET request - 
+ INFO 2015-04-27 16:37:56,034 [main] (TestEngine.java:119) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:37:56,035 [main] (StartPoint.java:84) - Execution is completed
+ INFO 2015-04-27 16:44:01,983 [main] (?:?) - Configuration log4j is successful
+ INFO 2015-04-27 16:44:02,167 [main] (?:?) -  [1] suite/s for execution
+ INFO 2015-04-27 16:44:02,167 [main] (?:?) - Initialization successful
+ INFO 2015-04-27 16:44:02,277 [main] (?:?) - Starting execution
+ INFO 2015-04-27 16:44:02,278 [main] (?:?) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 16:44:02,279 [main] (?:?) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 16:44:02,280 [main] (?:?) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 16:44:02,284 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:02,788 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , retrieve the details of the specified Item ID.'
+ INFO 2015-04-27 16:44:02,789 [main] (?:?) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 16:44:02,789 [main] (?:?) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 16:44:02,789 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:02,890 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:44:02,890 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:02,986 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:44:02,986 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:03,090 [main] (?:?) - Successfully performed 'GET'operation on 'GET ITEM Response with invalid resource name(items)'
+ INFO 2015-04-27 16:44:03,090 [main] (?:?) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 16:44:03,091 [main] (?:?) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 16:44:03,091 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:03,196 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID'
+ INFO 2015-04-27 16:44:03,214 [main] (?:?) - Executing Multiple GET requests - 
+ INFO 2015-04-27 16:44:03,214 [main] (?:?) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 16:44:03,333 [main] (?:?) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 16:44:03,438 [main] (?:?) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 16:44:03,539 [main] (?:?) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 16:44:03,641 [main] (?:?) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 16:44:03,744 [main] (?:?) - Successfully performed 'MULTIPLE_GETS'operation on 'Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.'
+ INFO 2015-04-27 16:44:03,744 [main] (?:?) - Total 2 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 16:44:03,745 [main] (?:?) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 16:44:03,745 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:03,843 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:44:03,844 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 16:44:03,944 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 16:44:03,945 [main] (?:?) - Execution is completed
+ INFO 2015-04-27 18:37:27,998 [main] (?:?) - Configuration log4j is successful
+ INFO 2015-04-27 18:37:28,189 [main] (?:?) -  [1] suite/s for execution
+ INFO 2015-04-27 18:37:28,190 [main] (?:?) - Initialization successful
+ INFO 2015-04-27 18:37:28,296 [main] (?:?) - Starting execution
+ INFO 2015-04-27 18:37:28,297 [main] (?:?) - Total 4 sets for execution in [ItemsAPI] suite
+ INFO 2015-04-27 18:37:28,298 [main] (?:?) - Total 1 test cases for execution in Items_Positive_Scenarios set
+ INFO 2015-04-27 18:37:28,302 [main] (?:?) - Started executing Test Set :Items_Positive_Scenarios
+ INFO 2015-04-27 18:37:28,303 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:28,853 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , retrieve the details of the specified Item ID.'
+ INFO 2015-04-27 18:37:28,854 [main] (?:?) - Total 3 test cases for execution in Items_Negative_Scenarios set
+ INFO 2015-04-27 18:37:28,854 [main] (?:?) - Started executing Test Set :Items_Negative_Scenarios
+ INFO 2015-04-27 18:37:28,854 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:28,980 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 18:37:28,980 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:30,109 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Web API , try to retrieve the item by providing invalid item id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 18:37:30,110 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:30,237 [main] (?:?) - Successfully performed 'GET'operation on 'GET ITEM Response with invalid resource name(items)'
+ INFO 2015-04-27 18:37:30,237 [main] (?:?) - Total 2 test cases for execution in Item_Set_Positive_Scenarios set
+ INFO 2015-04-27 18:37:30,238 [main] (?:?) - Started executing Test Set :Item_Set_Positive_Scenarios
+ INFO 2015-04-27 18:37:30,238 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:30,367 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , retrieve the details of the specified set ID'
+ INFO 2015-04-27 18:37:30,388 [main] (?:?) - Executing Multiple GET requests - 
+ INFO 2015-04-27 18:37:30,388 [main] (?:?) - Performing GET Operation on /api/wow/item for76749
+ INFO 2015-04-27 18:37:30,538 [main] (?:?) - Performing GET Operation on /api/wow/item for76750
+ INFO 2015-04-27 18:37:30,664 [main] (?:?) - Performing GET Operation on /api/wow/item for76751
+ INFO 2015-04-27 18:37:30,787 [main] (?:?) - Performing GET Operation on /api/wow/item for76752
+ INFO 2015-04-27 18:37:31,173 [main] (?:?) - Performing GET Operation on /api/wow/item for76753
+ INFO 2015-04-27 18:37:31,307 [main] (?:?) - Successfully performed 'MULTIPLE_GETS'operation on 'Using the World of Warcraft Item Set Web API, retrieve the item ids for all items in the “Deep Earth Vestments” set and verify that the item id for each item matches that which is returned by the Item Web API.'
+ INFO 2015-04-27 18:37:31,307 [main] (?:?) - Total 2 test cases for execution in Set_Negative_Scenarios set
+ INFO 2015-04-27 18:37:31,307 [main] (?:?) - Started executing Test Set :Set_Negative_Scenarios
+ INFO 2015-04-27 18:37:31,307 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:31,481 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 18:37:31,481 [main] (?:?) - Executing GET request - 
+ INFO 2015-04-27 18:37:31,609 [main] (?:?) - Successfully performed 'GET'operation on 'Using the world of warcraft Item Set Web API , try to retrieve the item id's by providing blank set id and validate the response . Make sure error response code matches as expected and output response is in JSON format'
+ INFO 2015-04-27 18:37:31,610 [main] (?:?) - Execution is completed
